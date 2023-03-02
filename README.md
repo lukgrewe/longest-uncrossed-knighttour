@@ -1,1 +1,1 @@
-# longest-uncrossed-knighttour
+# Longest Uncrossed Knighttour
